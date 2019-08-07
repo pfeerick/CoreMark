@@ -1,6 +1,7 @@
 // CoreMark Benchmark for Arduino compatible boards
 //   original CoreMark code: https://github.com/eembc/coremark
 
+#include <Arduino.h>
 #include <stdarg.h>
 
 // A way to call the C-only coremark function from Arduino's C++ environment
