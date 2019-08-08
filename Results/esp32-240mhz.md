@@ -1,7 +1,7 @@
 # ESP32
 **Settings:** Stock, CPU 240Mhz
 
-Board variant: [MH ET LIVE ESP32MiniKit](https://www.aliexpress.com/item/32819107932.html)
+**Board variant:** [MH ET LIVE ESP32MiniKit](https://www.aliexpress.com/item/32819107932.html)
 
 
 ```
